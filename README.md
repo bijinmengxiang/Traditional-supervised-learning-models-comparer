@@ -4,6 +4,7 @@ Using some pubilc dataset to compare the efficiency of traditional supervised le
 V1.0:
 
 只含四种集成算法的precision比较（准确来说应该是accuracy）。能够完成读取csv数据集，并进行自动训练。
+对各类机器学习算法采用K-folds交叉验证方法求取平均正确率。（可调节fold数）
 
 仅包括随机森林，GradientBoosting，AdaBoost，BaggingRegressor四种集成学习算法。
 
