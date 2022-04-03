@@ -18,4 +18,4 @@ V1.0:
 
 V1.1：
 
-完成了二分类的标准化数据输出，包括precision,recall,f1_scores,accuracy
+完成了二分类的标准化数据输出，包括precision,recall,f1_scores,accuracy的计算
