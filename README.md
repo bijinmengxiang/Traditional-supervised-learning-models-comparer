@@ -16,3 +16,6 @@ V1.0:
 5. 目前仅支持读取csv格式，未来考虑可对其他格式文件进行处理训练。
 
 
+V1.1：
+
+完成了二分类的标准化数据输出，包括precision,recall,f1_scores,accuracy
